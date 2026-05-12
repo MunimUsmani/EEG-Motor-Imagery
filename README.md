@@ -123,15 +123,18 @@ eeg-motor-imagery/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 🚀 Setup
 Prerequisites
 Python 3.9+
 Around 2 GB free disk space
 GPU optional
 CPU training is possible, but Google Colab GPU is recommended for faster experiments
+
 Step 1 — Clone the repository
 git clone https://github.com/MunimUsmani/eeg-motor-imagery.git
 cd eeg-motor-imagery
+
 Step 2 — Install dependencies
 pip install -r requirements.txt
 
@@ -149,6 +152,7 @@ streamlit
 If the streamlit command is not available on Windows, run Streamlit using:
 
 python -m streamlit run app/demo.py
+
 Step 3 — Download the dataset
 python src/download_data.py
 
@@ -167,6 +171,7 @@ Downloading subject 01...
 Subject 01: 3 runs saved
 ...
 Done. Files saved to: data/raw/
+
 Step 4 — Preprocess EEG data
 python src/preprocess.py
 
@@ -230,6 +235,7 @@ Example training result:
 LOSO Results (EEGNET)
   Mean accuracy : 0.749 ± 0.062
   Mean kappa    : 0.330 ± 0.245
+  
 Step 6 — Run the Streamlit demo
 streamlit run app/demo.py
 
