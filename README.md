@@ -152,9 +152,8 @@ Cohen's Kappa is lower than accuracy because it adjusts for chance agreement and
 
 Recommended screenshot:
 
-```markdown
-![Streamlit Demo](assets/streamlit-demo.png)
-```
+<img width="956" height="419" alt="image" src="https://github.com/user-attachments/assets/21d289af-38b9-40ab-b30f-2f06f27a2a79" />
+<img width="959" height="418" alt="image" src="https://github.com/user-attachments/assets/3b37eace-7bca-4d8a-adda-ace2f16978f1" />
 
 ---
 
@@ -166,9 +165,7 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![Epoch Explorer](assets/epoch-explorer.png)
-```
+<img width="788" height="412" alt="image" src="https://github.com/user-attachments/assets/91bf4bbd-9a9a-4f6b-83de-4ef0e04415f2" />
 
 ---
 
@@ -180,9 +177,7 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![Prediction Confidence](assets/prediction-confidence.png)
-```
+<img width="788" height="412" alt="image" src="https://github.com/user-attachments/assets/91bf4bbd-9a9a-4f6b-83de-4ef0e04415f2" />
 
 ---
 
@@ -194,9 +189,8 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![EEG Signal](assets/eeg-signal.png)
-```
+<img width="793" height="211" alt="image" src="https://github.com/user-attachments/assets/291d39a6-6d12-46f1-9391-baae44eeb57a" />
+<img width="767" height="208" alt="image" src="https://github.com/user-attachments/assets/8d57e925-e327-4fcd-9cc2-82e4ecf3530d" />
 
 ---
 
@@ -208,9 +202,7 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![All Epoch Evaluation](assets/evaluation-metrics.png)
-```
+<img width="746" height="138" alt="image" src="https://github.com/user-attachments/assets/0f082b5f-57e4-490e-be03-8e17c1fd691e" />
 
 ---
 
@@ -222,9 +214,7 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![Channel Saliency](assets/channel-saliency.png)
-```
+<img width="827" height="355" alt="image" src="https://github.com/user-attachments/assets/da58c92b-a023-48a3-b5fe-5e41a762920b" />
 
 ---
 
@@ -236,9 +226,7 @@ Recommended screenshot:
 
 Recommended screenshot:
 
-```markdown
-![Saliency Bar Chart](assets/saliency-bar-chart.png)
-```
+<img width="796" height="440" alt="image" src="https://github.com/user-attachments/assets/4ef608c8-1200-44a5-bbea-16202fe01353" />
 
 ---
 
